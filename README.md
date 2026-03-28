@@ -17,7 +17,7 @@ I'm passionate about **Prompt Engineering**, leveraging AI tools to create smart
 - 🔭 Currently working on AI-enhanced projects & personal web applications
 - 🌱 Learning advanced **Prompt Engineering**, Data Science techniques, and modern frontend frameworks
 - 💡 Always combining clean code with thoughtful design
-- 📍 Negombo, Sri Lanka
+- 📍 Matale, Sri Lanka
 
 ---
 
