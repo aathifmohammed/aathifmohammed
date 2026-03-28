@@ -45,14 +45,6 @@ Product Management • Business Strategy • Entrepreneurship • User Experienc
 
 ---
 
-### 📊 GitHub Stats
-
-![Aathif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aathifmohammed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aathifmohammed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
----
-
 ### 📫 Let's Connect
 
 - **LinkedIn**: [Aathif Mohamed](https://www.linkedin.com/in/aathif-mohamed)
