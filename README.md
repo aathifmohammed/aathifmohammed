@@ -10,7 +10,7 @@ Currently pursuing my **Information Technology** degree at the **University of M
 
 I enjoy building efficient, visually appealing digital solutions using **Python**, **JavaScript**, **HTML/CSS**, and modern web technologies. With strong skills in **Figma** and **Canva**, I love turning ideas into polished designs. My experience in **photography** has sharpened my eye for detail and perspective.
 
-As **Co-Founder of Pocket Scent**, I've developed leadership, business strategy, and problem-solving skills in a real-world startup environment.
+As **Co-Founder of SCENTiX**, I've developed leadership, business strategy, and problem-solving skills in a real-world startup environment.
 
 I'm passionate about **Prompt Engineering**, leveraging AI tools to create smarter applications, and exploring the intersection of data science, software engineering, and beautiful user experiences.
 
